@@ -6,7 +6,7 @@
 
 [![pnpm](https://img.shields.io/badge/maintained%20with-pnpm-cc00ff.svg?style=for-the-badge&logo=pnpm)](https://pnpm.io/)
 
-A simple wrapper around [gridstack.js](https://github.com/gridstack/gridstack.js) for the use in solid-js.
+A simple wrapper around [gridstack.js](https://github.com/gridstack/gridstack.js) for solid-js.
 
 ## Quick start
 
