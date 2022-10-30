@@ -26,7 +26,7 @@ Use it:
 ```tsx
 import { GridStack } from 'solid-gridstack'
 
-const App: Component = () => {
+const App = () => {
   return (
     <GridStack
       div={{ style: { 'margin': '2.5px' }}}

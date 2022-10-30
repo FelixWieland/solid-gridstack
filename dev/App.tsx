@@ -1,7 +1,6 @@
-import type { Component } from "solid-js";
 import { GridStack } from "../src";
 
-const App: Component = () => {
+const App = () => {
   return (
     <GridStack
       div={{ style: { 'margin': '2.5px' }}}
