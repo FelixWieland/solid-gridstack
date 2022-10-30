@@ -44,7 +44,8 @@
         "typecheck": "tsc --noEmit"
     },
     "dependencies": {
-        "gridstack": "^7.1.0"
+        "gridstack": "^7.1.0",
+        "rollup-plugin-import-css": "^3.1.0"
     },
     "peerDependencies": {
         "solid-js": ">=1.0.0"
