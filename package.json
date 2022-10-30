@@ -36,6 +36,7 @@
     },
     "scripts": {
         "dev": "vite serve dev",
+        "build-dev": "vite build dev",
         "test": "echo \"test not setup\"",
         "build": "rollup -c",
         "prepublishOnly": "pnpm build",
